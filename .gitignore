@@ -1,0 +1,12 @@
+# node modules
+node_modules
+
+# project files
+*.sublime-*
+
+# test coverage
+coverage
+.nyc_output
+
+# npm
+npm-debug.log
